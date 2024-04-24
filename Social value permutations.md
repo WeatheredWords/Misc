@@ -36,7 +36,7 @@ But we still have the other permutations from the previous sentences/structures,
 
 ## Reference
 
-Here’s the ones from Anthony's third VM on 24/04/23 in chronological order:
+Here are the ones from Anthony's third VM on 24/04/23 in chronological order:
 
     B inferring A's value from C's judgement that A has value for C
     B inferring A's value from A's judgement that A has value for B
