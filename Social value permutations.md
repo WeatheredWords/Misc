@@ -40,7 +40,7 @@ Here’s the ones from Anthony's third VM on 24/04/23 in chronological order:
 
     B inferring A's value from C's judgement that A has value for C
     B inferring A's value from A's judgement that A has value for B
-    B inferring A's value from A's judgement that C will make the judgement that A has value for C and B
+    B inferring A's value from A's judgement that C will make the judgement that A has value for C & B
     B inferring A's value from C's judgement that A has value for B
 
 ## Conclusion
